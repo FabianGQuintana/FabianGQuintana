@@ -1,16 +1,66 @@
-## Hi there 👋
+<h2 align="center">Hi There, Welcome to my Github profile! I'm Fabian Quintana <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-<!--
-**FabianGQuintana/FabianGQuintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+I'm a bachelor's student in Information Systems, passionate about software development.  
+I enjoy working on both the front-end and back-end, always eager to learn and build new, innovative, and creative solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm currently learning
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Bootstrap 5
+- SQL *(working mainly with the database included in XAMPP via phpMyAdmin)*
+
+---
+
+## 🛠 My Skills Include
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lisp-3B5998?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Tools & Technologies I use
+<p align="left">
+  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BlueJ-0099CC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevC++-00599C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TablePlus-F68D2E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🤝 Let's collaborate
+I'm looking forward to collaborating on open source projects.  
+💬 Feel free to ask me anything — I'll be happy to help!
+
+---
+
+## 📫 Contact Me
+Feel free to reach out at:  
+📧 **[quintanafabiangustavo@gmail.com](mailto:quintanafabiangustavo@gmail.com)**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FabianGQuintana&show_icons=true&theme=radical" alt="my github stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianGQuintana&layout=compact&theme=radical" alt="languages" height="165"/>
+</p>
