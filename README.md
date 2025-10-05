@@ -10,6 +10,8 @@ I enjoy working on both the front-end and back-end, always eager to learn and bu
 - C#
 - .NET
 - Visual Studio
+- SQL Server
+- SQL Server Management Studio 
 
 ---
 
