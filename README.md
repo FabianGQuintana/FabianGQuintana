@@ -7,12 +7,9 @@ I enjoy working on both the front-end and back-end, always eager to learn and bu
 ---
 
 ## 🌱 I'm currently learning
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Bootstrap 5
-- SQL *(working mainly with the database included in XAMPP via phpMyAdmin)*
+- C#
+- .NET
+- Visual Studio
 
 ---
 
@@ -23,6 +20,11 @@ I enjoy working on both the front-end and back-end, always eager to learn and bu
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lisp-3B5998?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
 ---
@@ -31,14 +33,16 @@ I enjoy working on both the front-end and back-end, always eager to learn and bu
 <p align="left">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 ---
 
 ## ⚙️ Tools & Technologies I use
 <p align="left">
-  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/>
   <img src="https://img.shields.io/badge/BlueJ-0099CC?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/DevC++-00599C?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
