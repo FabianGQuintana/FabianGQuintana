@@ -9,7 +9,11 @@ I enjoy working on both the front-end and back-end, always eager to learn and bu
 ## 🌱 I'm currently learning
 - C#
 - .NET
-- Visual Studio
+- React
+- JavaScript
+- TypeScript
+- Next.js
+- MongoDB
 - SQL Server
 - SQL Server Management Studio 
 
