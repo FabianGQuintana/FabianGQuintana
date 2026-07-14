@@ -65,11 +65,10 @@ I'm always open to discussing new projects, software architecture, or how to opt
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/FabianGQuintana">
-    <img src="https://github-readme-stats.vercel.app/api?username=FabianGQuintana&show_icons=true&theme=radical" alt="my github stats" width="420"/>
-  </a>
-  <a href="https://github.com/FabianGQuintana">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianGQuintana&layout=compact&theme=radical" alt="languages" height="165"/>
-  </a>
-</p>
+<div align="center">
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabianGQuintana&show_icons=true&theme=radical)](https://github.com/FabianGQuintana)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianGQuintana&layout=compact&theme=radical)](https://github.com/FabianGQuintana)
+
+</div>
