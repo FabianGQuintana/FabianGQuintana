@@ -1,75 +1,75 @@
-<h2 align="center">Hi There, Welcome to my Github profile! I'm Fabian Quintana <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h1 align="center">Hi There, I'm Fabián Quintana </h1>
+<h3 align="center">Software Developer | AI-Augmented Engineer</h3>
 
-## 🌟 About Me
-I'm a bachelor's student in Information Systems, passionate about software development.  
-I enjoy working on both the front-end and back-end, always eager to learn and build new, innovative, and creative solutions.
-
----
-
-## 🌱 I'm currently learning
-- C#
-- .NET
-- React
-- JavaScript
-- TypeScript
-- Next.js
-- MongoDB
-- SQL Server
-- SQL Server Management Studio 
-
----
-
-## 🛠 My Skills Include
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lisp-3B5998?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+<p align="center">
+  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> 
+  <br>
+  <i>Transforming ideas into scalable software through AI-driven workflows and solid engineering.</i>
 </p>
 
 ---
 
-### 🚀 Frameworks & Libraries
+## About Me
+I'm an Information Systems student and software developer based in Corrientes, deeply passionate about building scalable back-end and full-stack solutions. 
+
+My current approach revolves heavily around **AI-Driven Engineering**. I focus on system architecture, database optimization, and business logic, leveraging intelligent agents to accelerate coding, ensure quality, and maintain clean architectural patterns over traditional manual typing.
+
+---
+
+##  AI-Driven Workflow & Productivity
+My day-to-day development relies on seamlessly integrating AI to maximize efficiency and problem-solving:
+* **CLI & Workspace Agents:** Integration of terminal-based agents for rapid command execution, Git flow management, and project scaffolding.
+* **Context Management:** Systematic use of `agents.md` and custom **Skills** to maintain strict project context, enforce domain rules, and automate repetitive codebase tasks.
+* **Coding Companions:** Advanced usage of **Opencode** (and similar tools) for real-time pair programming, intelligent refactoring, and code review.
+
+---
+
+##  Core Technologies & Stack
+*(The technical foundations upon which I apply my AI workflows)*
 <p align="left">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
 ---
 
-## ⚙️ Tools & Technologies I use
+##  Tools & Infrastructure
 <p align="left">
+  <img src="https://img.shields.io/badge/AntiGravity_IDE-000000?style=for-the-badge&logo=code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BlueJ-0099CC?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevC++-00599C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TablePlus-F68D2E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-## 🤝 Let's collaborate
-I'm looking forward to collaborating on open source projects.  
-💬 Feel free to ask me anything — I'll be happy to help!
+##  Project Management
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Contact Me
-Feel free to reach out at:  
+##  Contact Me
+I'm always open to discussing new projects, software architecture, or how to optimize development with AI. 
 📧 **[quintanafabiangustavo@gmail.com](mailto:quintanafabiangustavo@gmail.com)**
 
----
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabianGQuintana&show_icons=true&theme=radical" alt="my github stats" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianGQuintana&layout=compact&theme=radical" alt="languages" height="165"/>
+  <a href="https://github.com/FabianGQuintana">
+    <img src="https://github-readme-stats.vercel.app/api?username=FabianGQuintana&show_icons=true&theme=radical" alt="my github stats" width="420"/>
+  </a>
+  <a href="https://github.com/FabianGQuintana">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianGQuintana&layout=compact&theme=radical" alt="languages" height="165"/>
+  </a>
 </p>
